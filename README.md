@@ -1,4 +1,4 @@
 HelperClasses
 =============
 
-Hjälpklasser
+Hjälpklasser för olika typer av problem.
